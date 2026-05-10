@@ -45,6 +45,6 @@ console.log(addTwo(3, 4));
 
 // implecit return
 // const addTwo = (num1, num2) => num1 + num2;
-// const addTwo = (num1, num2) => num1 + num2; // while using () no need of return function
+// const addTwo = (num1, num2) => (num1 + num2); // while using () no need of return function
 // while using {} we need to use return function
 console.log(addTwo(3, 5));
